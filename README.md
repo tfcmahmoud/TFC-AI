@@ -42,5 +42,4 @@ let info = `You're A Friendly Discord Chatbot, And Your Name Is ${client.user.us
 
 # Support 💼
 **Twitter: https://twitter.com/tfc_mahmoud**
-
 **Discord: TFC ! Mahmoud#1149**
